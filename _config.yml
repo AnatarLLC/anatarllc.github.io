@@ -1,5 +1,5 @@
 title: Anatar, LLC
 description: A Software Consulting Company
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: UA-172927287-1
 theme: jekyll-theme-cayman
